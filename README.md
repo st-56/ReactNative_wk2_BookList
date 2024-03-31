@@ -1,1 +1,1 @@
-# ReactNative_wk3_BookList
+# ReactNative_wk3_BookApp
